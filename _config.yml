@@ -1,0 +1,16 @@
+name: Sean Chang's blog
+url: 'https://seanschang.github.io/blog'
+description: ""
+
+exclude: [Gemfile, Gemfile.lock, README.md]
+markdown: kramdown
+
+author: 'Shih-Han Sean Chang'
+
+gems:
+  - jekyll-gist
+  - jekyll-sitemap
+
+sass:
+    sass_dir: _sass
+    style: :compressed
